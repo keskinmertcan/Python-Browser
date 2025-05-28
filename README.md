@@ -18,7 +18,7 @@ Pyrowser, PyQt5 kullanılarak geliştirilmiş basit bir web tarayıcı uygulamas
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/pyrowser.git
+git clone https://github.com/keskinmertcan/pyrowser.git
 cd pyrowser
 ```
 
